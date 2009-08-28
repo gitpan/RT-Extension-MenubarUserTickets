@@ -8,7 +8,7 @@ To install:
     perl Makefile.PL
     make install
 
-Copyright 2007 Dumb Terminal Creations
+Copyright 2009 Dumb Terminal Creations
 dumb@cpan.org
 
 Originally based on RT::Extension::MenubarSearches:
